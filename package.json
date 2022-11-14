@@ -1,0 +1,11 @@
+{
+  "name": "lec-node",
+  "version": "0.1.0",
+  "description": "Demo code for Lecture - Intro to Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "nolanknill",
+  "license": "ISC"
+}
